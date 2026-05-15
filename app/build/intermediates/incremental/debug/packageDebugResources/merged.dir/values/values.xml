@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="beige">#FAF8F5</color>
+    <color name="black">#000000</color>
+    <color name="brown">#8B4513</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">PoetryNew</string>
+    <string name="gcm_defaultSenderId" translatable="false">272883919110</string>
+    <string name="google_api_key" translatable="false">AIzaSyBLAWE55LBCWE_88G9ojp-mPC3ce9ugBo8</string>
+    <string name="google_app_id" translatable="false">1:272883919110:android:fc9f9a01fb69d52b949687</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBLAWE55LBCWE_88G9ojp-mPC3ce9ugBo8</string>
+    <string name="google_storage_bucket" translatable="false">poetry-library-db.firebasestorage.app</string>
+    <string name="project_id" translatable="false">poetry-library-db</string>
+    <style name="Theme.PoetryNew" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/brown</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:colorBackground">@color/beige</item>
+        <item name="colorSurface">@color/white</item>
+        <item name="colorOnSurface">@color/black</item>
+    </style>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "272883919110",
+    "project_id": "poetry-library-db",
+    "storage_bucket": "poetry-library-db.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272883919110:android:31c755da2a63e183949687",
+        "android_client_info": {
+          "package_name": "com.example.poetrylibrary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLAWE55LBCWE_88G9ojp-mPC3ce9ugBo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:272883919110:android:fc9f9a01fb69d52b949687",
+        "android_client_info": {
+          "package_name": "com.example.poetrynew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLAWE55LBCWE_88G9ojp-mPC3ce9ugBo8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">272883919110</string>
+    <string name="google_api_key" translatable="false">AIzaSyBLAWE55LBCWE_88G9ojp-mPC3ce9ugBo8</string>
+    <string name="google_app_id" translatable="false">1:272883919110:android:fc9f9a01fb69d52b949687</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBLAWE55LBCWE_88G9ojp-mPC3ce9ugBo8</string>
+    <string name="google_storage_bucket" translatable="false">poetry-library-db.firebasestorage.app</string>
+    <string name="project_id" translatable="false">poetry-library-db</string>
+</resources>

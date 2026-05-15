@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.poetrynew.app-mergeDebugResources-35:/values-v22/values-v22.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Mixa\\.gradle\\caches\\8.13\\transforms\\68e677702186e1a5b2158eb6f51f3702\\transformed\\appcompat-1.6.1\\res\\values-v22\\values-v22.xml",
+                    "from": {
+                        "startLines": "2,3,4,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,130,217,487",
+                        "endLines": "2,3,8,13",
+                        "endColumns": "74,86,12,12",
+                        "endOffsets": "125,212,482,764"
+                    }
+                }
+            ]
+        }
+    ]
+}

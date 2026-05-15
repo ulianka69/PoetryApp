@@ -1,0 +1,26 @@
+# Android Studio / IntelliJ
+*.iml
+/.idea/
+.gradle/
+local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+
+# APK / AAB
+*.apk
+*.aab
+*.ap_
+*.dex
+*.class
+
+# Keystore
+*.jks
+*.keystore
+
+# Firebase (опционально, если репозиторий публичный)
+# app/google-services.json
+
+# System files
+.DS_Store
+Thumbs.db
